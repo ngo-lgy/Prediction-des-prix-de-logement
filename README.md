@@ -1,6 +1,4 @@
 # Prediction-des-prix-de-logement
-Prédiction des prix de logement à partir du jeu de données Ames Housing
-
 
 🎯 𝗜𝗺𝗺𝗼𝗯𝗶𝗹𝗶𝗲𝗿 – 𝗣𝗿𝗲́𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗱𝗲𝘀 𝗽𝗿𝗶𝘅 𝗱𝗲𝘀 𝗹𝗼𝗴𝗲𝗺𝗲𝗻𝘁𝘀 🏠
 

@@ -13,4 +13,4 @@ Il pourra vous servir de support pour apprendre, approfondir vos connaissances e
 #DataScience #MachineLearning #AmesHousing #Python #FeatureEngineering #XGBoost #RandomForest #GradientBoosting #Stacking #Optuna #PredictiveModeling
 
 
-Licence : Ce document est mis à disposition sous licence Creative Commons Attribution 4.0 International (CC BY 4.0). Toute réutilisation du contenu soumise à cette licence doit mentionner l'auteur, la source et les informations de licence.
+**Licence** : Ce document est mis à disposition sous licence Creative Commons Attribution 4.0 International (CC BY 4.0). Toute réutilisation du contenu soumise à cette licence doit mentionner l'auteur, la source et les informations de licence.

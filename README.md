@@ -4,10 +4,7 @@ Prédiction des prix de logement à partir du jeu de données Ames Housing
 
 🎯 𝗜𝗺𝗺𝗼𝗯𝗶𝗹𝗶𝗲𝗿 – 𝗣𝗿𝗲́𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗱𝗲𝘀 𝗽𝗿𝗶𝘅 𝗱𝗲𝘀 𝗹𝗼𝗴𝗲𝗺𝗲𝗻𝘁𝘀 🏠
 
-📊 𝗣𝗿𝗼𝗷𝗲𝘁 𝗽𝗲𝗿𝘀𝗼𝗻𝗻𝗲𝗹 𝗱𝗲 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲
-
-
-Je vous partage un projet personnel de Data Science réalisé il y a quelques mois.
+📊 𝗣𝗿𝗼𝗷𝗲𝘁 𝗱𝗲 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲
 
 Ce projet présente un pipeline complet de Machine Learning. Il montre comment passer de simples données brutes à la prédiction du prix des logements à partir de leurs caractéristiques.
 
